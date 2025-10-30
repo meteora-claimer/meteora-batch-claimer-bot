@@ -1,0 +1,2 @@
+# Planning
+Support multiple languages via i18n framework
